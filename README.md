@@ -8,6 +8,10 @@ This is example is to show differente parts of the Git Repository and various co
 
 ## Porpose
 
+As stated above, the main porpuse is to provide a simple examples for Git training demos.
+
 ## Deployment
+
+This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
