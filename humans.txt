@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gabriel Graciott	bielskt.1@hotmail.com	@gabrielgraciott
 
 # THANKS
 
