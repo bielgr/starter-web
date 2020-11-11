@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Gabriel Graciott
 
 # TECHNOLOGY COLOPHON
 
